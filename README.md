@@ -68,4 +68,3 @@ Kashika Vaish | https://github.com/kashihiehie
 - AlphaFold Paper: https://www.nature.com/articles/s41586-020-2828-1
 - ColabFold: https://github.com/sokrypton/ColabFold
 - PDB Format: https://www.rcsb.org/docs/programmatic-access/file-download-services
-EOF
